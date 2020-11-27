@@ -1,0 +1,19 @@
+#photos {
+  margin-top: 24px;
+}
+
+#bookings {
+  margin: 50px auto 0 auto;
+  width: 1128px;
+  position: relative;
+  left: 50px;
+}
+
+#ReviewsApp {
+  margin-top: 50px;
+}
+
+#NearbyApp {
+  margin: 50px auto;
+  width: 1128px;
+}
